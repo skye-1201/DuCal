@@ -1,2 +1,2 @@
-# TLC
- Robust Single-modality Learning for Modality-Missing Object Re-Identification
+# DuCal
+ Robust Dual-Space Calibration for Multi-Modal Object Re-Identification
